@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Operating System - Processes
 comments: true
 # other options

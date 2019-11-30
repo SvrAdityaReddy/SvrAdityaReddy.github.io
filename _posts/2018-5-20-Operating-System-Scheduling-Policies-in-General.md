@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Operating System - Scheduling Policies in General
 comments: true
 # other options

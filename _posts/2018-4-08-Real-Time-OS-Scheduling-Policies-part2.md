@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Real Time Systems - Scheduling Mechanisms - II
 comments: true
 # other options
