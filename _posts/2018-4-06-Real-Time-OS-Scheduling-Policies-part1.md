@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Real Time Systems - Scheduling Mechanisms - I
-comments: true
 # other options
 ---
 
