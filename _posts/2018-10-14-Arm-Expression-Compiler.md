@@ -1,7 +1,6 @@
 ---
 title: Arm Expression Compiler
 comments: true
-author: SvrAdityaReddy
 # other options
 ---
 
