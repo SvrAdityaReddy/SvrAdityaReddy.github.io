@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SvrAdityaReddy's Blog"
+title                    : "Learnings/Projects of SvrAdityaReddy"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Venkata Rama Aditya Reddy Seelapureddy"
@@ -110,13 +110,16 @@ analytics:
 author:
   name             : "Venkata Rama Aditya Reddy Seelapureddy"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a Software Engineer at Qualcomm, with B.Tech. and M.Tech. from IIIT Bangalore. My interests are in area of Linux, C, C++, Python, Machine Learning"
   location         : "Hyderabad"
   email            : "Aditya.Seelapureddy@tutanota.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: #mailto:Aditya.seelapureddy@tutanota.com
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/svradityareddy/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -132,7 +135,7 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+  
 # Site Footer
 footer:
   links:
