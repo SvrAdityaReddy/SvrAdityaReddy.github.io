@@ -68,7 +68,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true
 search_full_content      : true
-search_provider          : # lunr (default), algolia, google
+search_provider          : lunr # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -293,6 +293,7 @@ defaults:
       path: ""
       type: posts
     values:
+      comments: true
       layout: single
       author_profile: true
       read_time: true
