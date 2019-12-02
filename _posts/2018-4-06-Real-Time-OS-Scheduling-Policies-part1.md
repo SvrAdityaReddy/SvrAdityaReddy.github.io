@@ -1,5 +1,7 @@
 ---
 title: Real Time Systems - Scheduling Mechanisms - I
+tags:
+    - RTOS
 comments: true
 # other options
 ---
