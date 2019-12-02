@@ -1,5 +1,5 @@
 ---
-title: Arm Expression Compiler using Python Ply
+title: Arm Expression Compiler using Python's Ply
 comments: true
 categories:
 	- Expression Compiler
