@@ -1,6 +1,11 @@
 ---
 title: Operating System - Processes in General
 comments: true
+categories:
+    - OS
+tags:
+    - Process
+    - General
 # other options
 ---
 

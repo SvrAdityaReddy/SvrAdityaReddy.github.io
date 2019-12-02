@@ -1,11 +1,10 @@
 ---
 title: Arm Expression Compiler
+comments: true
 categories:
 	- Expression Compiler
 tags:
 	- ARM
-	- Expression Compiler
-comments: true
 # other options
 ---
 

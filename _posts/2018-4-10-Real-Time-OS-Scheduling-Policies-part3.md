@@ -1,6 +1,10 @@
 ---
 title: Real Time Systems - Scheduling Mechanisms - III
 comments: true
+categories:
+    - RTOS
+tags:
+    - Scheduling Policies
 # other options
 ---
 

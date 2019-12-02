@@ -1,6 +1,11 @@
 ---
 title: Operating System - Processes in Linux
 comments: true
+categories:
+    - OS
+tags:
+    - Process
+    - Linux
 # other options
 ---
 
