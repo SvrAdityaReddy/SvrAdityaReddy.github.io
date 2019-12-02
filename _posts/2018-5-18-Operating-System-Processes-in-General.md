@@ -1,6 +1,12 @@
 ---
 title: Operating System - Processes in General
 comments: true
+tags:
+	- Process
+	- Process States
+	- IPC Basics
+    - Operating System
+    - OS
 # other options
 ---
 
