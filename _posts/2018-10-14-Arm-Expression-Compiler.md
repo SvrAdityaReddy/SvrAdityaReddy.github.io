@@ -1,5 +1,7 @@
 ---
 title: Arm Expression Compiler
+categories:
+	- Expression Compiler
 tags:
 	- ARM
 	- Expression Compiler
