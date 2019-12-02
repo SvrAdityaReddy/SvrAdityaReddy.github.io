@@ -1,10 +1,12 @@
 ---
-title: Arm Expression Compiler
+title: Arm Expression Compiler using Python Ply
 comments: true
 categories:
 	- Expression Compiler
 tags:
 	- ARM
+	- Ply
+	- Python
 # other options
 ---
 
