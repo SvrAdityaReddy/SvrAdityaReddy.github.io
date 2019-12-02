@@ -1,10 +1,10 @@
 ---
-title: Operating System - Processes in Linux
+title: "Operating System - Processes in Linux"
 tags:
     - Process
-    - Process States
+    - "Process States"
     - Linux
-    - Operating System
+    - "Operating System"
     - OS
 comments: true
 # other options
