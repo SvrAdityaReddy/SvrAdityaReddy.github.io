@@ -1,12 +1,6 @@
 ---
 title: Arm Expression Compiler using Python's Ply
 comments: true
-categories:
-	- Expression Compiler
-tags:
-	- ARM
-	- Ply
-	- Python
 # other options
 ---
 
