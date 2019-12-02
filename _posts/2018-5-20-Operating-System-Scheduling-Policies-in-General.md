@@ -1,12 +1,6 @@
 ---
 title: Operating System - Scheduling Policies in General Operating Systems, Linux
 comments: true
-tags:
-    - Scheduling Policies
-    - Operating System
-    - OS
-    - Linux
-    - Nice Value
 # other options
 ---
 
