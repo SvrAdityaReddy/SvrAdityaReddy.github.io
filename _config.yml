@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Venkata Rama Aditya Reddy Seelapureddy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo.jpg"
   bio              : "I am a Software Engineer at Qualcomm, with B.Tech. and M.Tech. from IIIT Bangalore. My interests are in area of Linux, C, C++, Python, Machine Learning"
   location         : "Hyderabad"
   email            : "Aditya.Seelapureddy@tutanota.com"
