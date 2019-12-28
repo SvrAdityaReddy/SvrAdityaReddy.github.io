@@ -4,7 +4,17 @@ comments: true
 # other options
 ---
 
-In this postwe will see essential commands I think which are very useful for developers in Linux.
+In this post we will see essential commands, I think which are very useful for developers in Linux.
+
+### Changing User
+
+Here we use ***su*** command to change user in Linux. See [man page for su](http://man7.org/linux/man-pages/man1/su.1.html) for more details 
+
+```bash
+
+$ su - userName
+
+```
 
 ### Environment variables
 
