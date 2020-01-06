@@ -12,7 +12,7 @@ This is introduced to reduce app crashes/incompatability/symbol conflicts with o
 
 But there is a way to package dependent native libraries with [Adding additional native libraries](https://source.android.com/devices/tech/config/namespaces_libraries#adding-additional-native-libraries) which needs vendors to ship their own Android image. 
 
-So, in a nutshell by default all ndk native libraries, libraries part of apk are accessible.
+So, in a nutshell by default ***all ndk native libraries, libraries part of apk*** are accessible.
 
 In next post, I will be discussing about ways I found to reduce shared library/Native Code size.
 
