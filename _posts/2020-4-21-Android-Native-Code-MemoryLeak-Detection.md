@@ -31,6 +31,8 @@ $ adb shell setprop libc.debug.malloc.program app_process
 $ adb shell setprop wrap.[process] "\$\@"
 # Set libc malloc options
 $ adb shell setprop libc.debug.malloc.options backtrace=4
+# Will Get memory leak information along with backtrace
+$ adb shell dumpsys -t 10000000000 meminfo --unreachable [process]
 
 ```
 The backtrace can be integer value of 8 or 16.
